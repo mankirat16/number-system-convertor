@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ASStsUr87S5dpUIjt1uTh35rcIbu4HP7jA&usqp=CAU");
+}
+
+h1 {
+  text-align: center;
+  color: antiquewhite;
+}
+
+div {
+  margin-bottom: 10px;
+}
+
+label {
+  font-weight: bold;
+  color: antiquewhite;
+  font-size: x-large;
+}
+
+input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 14px;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: darkgreen;
+}
+
+#results {
+  margin-top: 20px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: antiquewhite;
+  font-size: larger;
+  font-weight: bolder;
+  margin-top: 50px;
+}
